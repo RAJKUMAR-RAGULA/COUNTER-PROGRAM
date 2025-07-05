@@ -1,0 +1,22 @@
+#myLabel{
+    display: block;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10em;
+}
+
+#myDiv{
+    text-align: center;
+}
+
+.button{
+    padding: 10px 20px;
+    color: #FFFFFF;
+    background-color:#6366F1;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: #8f90de;
+}
